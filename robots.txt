@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://enteocata.github.io/sitemap.html.gz
+Sitemap: https://enteocata.github.io/app/sitemap.html.gz
+Sitemap: https://enteocata.github.io/assets/sitemap.html.gz
+Sitemap: https://enteocata.github.io/css/sitemap.html.gz
+Sitemap: https://enteocata.github.io/includes/sitemap.html.gz
+Sitemap: https://enteocata.github.io/item/sitemap.html.gz
+Sitemap: https://enteocata.github.io/src/sitemap.html.gz
